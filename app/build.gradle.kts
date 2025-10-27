@@ -40,9 +40,7 @@ android {
 }
 
 dependencies {
-
-    implementation("com.google.firebase:firebase-firestore-ktx:25.1.4")
-    implementation(libs.firebase.auth.ktx)
+    implementation(libs.bundles.firebase)
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
