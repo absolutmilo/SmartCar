@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84920776739",
+    "project_id": "smartcar-31017",
+    "storage_bucket": "smartcar-31017.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84920776739:android:414cc0f983f62e1a801996",
+        "android_client_info": {
+          "package_name": "com.smartcar.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7gJtkZsBSWaEX7Ml0MR-43dh-DR-oOiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
